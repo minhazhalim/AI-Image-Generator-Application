@@ -351,3 +351,19 @@ body.dark-theme .container {
           opacity: 1;
      }
 }
+@media only screen and (max-width:628px){
+     .container .header .logo-wrapper h1 {
+          padding-left: 80px;
+     }
+}
+@media only screen and (max-width:500px){
+     .container .header .logo-wrapper h1 {
+          padding-left: 30px;
+     }
+}
+@media only screen and (max-width:328px){
+     .container .header .logo-wrapper h1 {
+          padding-left: 20px;
+          font-size: 1.3rem;
+     }
+}
