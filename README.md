@@ -34,9 +34,9 @@ git clone https://github.com/minhazhalim/AI-Image-Generator-Application.git
 ```bash
 cd AI-Image-Generator-Application
 ```
-3. **Open the Application:**
+3. **Open the Project Folder:**
 
-   Since this is a frontend application, you can open the ```index.html``` file directly in your web browser.
+    Open ```index.html``` file in your preferred web browser.
 
 
 ## Usage
